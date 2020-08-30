@@ -13,6 +13,12 @@ Este Projeto foi desenvolvido para fins acadêmicos através do curso [Curso Web
 <div>
   <a href="https://pm2.keymetrics.io/"><img src="https://raw.githubusercontent.com/Unitech/pm2/development/pres/pm2-v4.png" height="50px" width="150px"></a>
 </div>
+<div>
+  <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="50px" width="50px"></a>
+</div>
+<div>
+  <a href="https://www.mongodb.com/"><img src="https://miro.medium.com/max/1838/0*Nq8q99O7pbULA6p6.png" height="50px" width="150px"></a>
+</div>
 
 ## Getting Started
 
