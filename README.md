@@ -42,6 +42,8 @@ http://localhost:3000
 npm run production
 ```
 
+Projeto [frontend](https://github.com/Jhonatan-Pereira/vue_knowledge_base).
+
 ## Author
 
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
