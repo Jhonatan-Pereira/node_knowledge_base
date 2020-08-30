@@ -1,0 +1,17 @@
+module.exports = {
+    authSecret: '',
+    postgres_db: {
+      host: '127.0.0.1',
+      port: 5432,
+      database: 'knowledge',
+      user: '',
+      password: 
+    },
+    mongo_db: {
+      host: 'localhost',
+      port: 27017,
+      database: 'knowledge_stats',
+      user: '',
+      password: ''
+    }
+}
